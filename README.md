@@ -1,2 +1,2 @@
 # Super-league
-Test Repository
+Test Repository for Git command learning
